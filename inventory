@@ -1,2 +1,6 @@
+[testServer]
 10.0.2.4
 10.0.2.5
+
+[testServer:vars]
+ansible_password=workit
