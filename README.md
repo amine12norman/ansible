@@ -1,3 +1,3 @@
 # ansible
 
-This is my test Ansible repository
+This is my first practice with Ansible
